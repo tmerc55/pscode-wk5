@@ -1,0 +1,25 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+(3+4==7)
+
+// Exercise 2: Check if a Number is Even or Odd
+
+(If number divides evenly then it is even else odd)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers. (Input n1,n2,n3,n4,n5)   
+b) Calculate the average of the five numbers. (ave= (n1+n2+n3+n4+n5)/5)
+c) Find the smallest and 			largest of the five entered numbers.
+(if n1<n2, set min to n1 else set min to n2;	(If n1<n2, set max to n2 else set max to n1;	
+If n3<min, set min to n3 else "";		If n3>max, set max to n3 else "";
+If n4<min, set min to n4 else "";		if n4>max, set max to n4 else "";
+If n5<min, set min to n5 else "")		if n5>max, set max to n5 else "")
+			
+d) Write out the results found from steps b and c with a message describing what they are
+(Echo "The average is" print ave)
+(Echo "min is" print min) (Echo "max is" print max)
+
+
+-- END --
